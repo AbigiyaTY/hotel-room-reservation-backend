@@ -204,30 +204,30 @@ To run tests, run the following command:
 
 - GitHub: [@benjamin kisenge](https://github.com/iambenkis)
 - Twitter: [@benjamin kisenge](https://twitter.com/iambenkis)
-- LinkedIn: [benjamin kisenge](https://www.linkedin.com/in/ben-kisenge/)
+- LinkedIn: [@benjamin kisenge](https://www.linkedin.com/in/ben-kisenge/)
 
 👤 **Meshu Amare**
 
 - GitHub: [@melashu](https://github.com/melashu)
 - Twitter: [@meshu102](https://twitter.com/meshu102)
-- LinkedIn: [Melashu Amare](https://www.linkedin.com/in/melashu-amare/)
+- LinkedIn: [@Melashu Amare](https://www.linkedin.com/in/melashu-amare/)
 
 👤 **Abigiya Tadesse**
 
-- GitHub: [@githubhandle](https://github.com/AbigiyaTY)
-- Twitter: [@twitterhandle](https://twitter.com/AbigiyaTY)
-- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/AbigiyaTY)
+* GitHub: [@AbigiyaTY](https://github.com/AbigiyaTY)
+* Twitter: [@AbigiyaTY](https://twitter.com/AbigiyaTY)
+* LinkedIn: [@AbigiyaTY](https://www.linkedin.com/in/Abigiyaty)
 
 👤 **Lawrence Addai Kusi**
- - GitHub: [@Githubhandle](https://github.com/kusiLaw)
- - Twitter: [@Twitterhandle](https://twitter.com/kusilaw)
- - Linkedin: [Linkedin](https://www.linkedin.com/in/lawrence-kusi-55a662104)
+ - GitHub: [@kusiLaw](https://github.com/kusiLaw)
+ - Twitter: [@kusiLaw](https://twitter.com/kusilaw)
+ - Linkedin: [@kusiLaw](https://www.linkedin.com/in/lawrence-kusi-55a662104)
 
  👤 **Mo'athal S. Kachi**
 
-- GitHub: [@githubhandle](https://github.com/Moathal)
-- Twitter: [@twitterhandle](https://twitter.com/mo_athal)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/moathalkachi)
+- GitHub: [@Moathal](https://github.com/Moathal)
+- Twitter: [@Moathal](https://twitter.com/mo_athal)
+- LinkedIn: [@Moathal](https://linkedin.com/in/moathalkachi)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
